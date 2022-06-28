@@ -33,8 +33,7 @@ divisione.	Ad	esempio,	per	la	porzione	comune:
     
     
 Inoltre,	 si	richiede	di	definire:
-
-    • almeno	tre	procedure/funzioni	per	ogni	porzione	coperta	(ad	esempio,	per	realizzare	interrogazioni	parametriche	o	operazioni	di	manipolazione	               complesse)
-    • tutti	i	trigger	che	si	ritengono	necessari per	l’implementazione	dei	vincoli	e	delle	regole	operative	per	le	porzioni	coperte,	o	comunque	di	realizzarne	       alcuni	ed	esplicitare	quali	altri	sarebbero	da	realizzare	ma	non	sono	stati	completati	per	mancanza	di	tempo/perché	non	ritenuti	particolarmente             significativi.
-    • Relativamente	alla	fatturazione	degli	utilizzi,	a	partire	dall’importo	come	in	0	andràselezionato	il	più conveniente	applicandovi	penali	e	bonus	cosı̀         come	nella	porzione	specifica	assegnata	al	gruppo.
+    - almeno	tre	procedure/funzioni	per	ogni	porzione	coperta	(ad	esempio,	per	realizzare	interrogazioni	parametriche	o	operazioni	di	manipolazione	               complesse)
+    - tutti	i	trigger	che	si	ritengono	necessari per	l’implementazione	dei	vincoli	e	delle	regole	operative	per	le	porzioni	coperte,	o	comunque	di	realizzarne	       alcuni	ed	esplicitare	quali	altri	sarebbero	da	realizzare	ma	non	sono	stati	completati	per	mancanza	di	tempo/perché	non	ritenuti	particolarmente             significativi.
+    - Relativamente	alla	fatturazione	degli	utilizzi,	a	partire	dall’importo	come	in	0	andràselezionato	il	più conveniente	applicandovi	penali	e	bonus	cosı̀         come	nella	porzione	specifica	assegnata	al	gruppo.
    
